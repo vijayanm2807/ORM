@@ -1,11 +1,8 @@
 # Ex02 Django ORM Web Application
-## Date: 9.10.2006
+## Date: 9.10.2026
 
 ## AIM
-To develop a Django Application to store and retrieve data from a Vehicle Service Database platform using Object Relational Mapping(ORM).
-
-## ENTITY RELATIONSHIP DIAGRAM
-
+To develop a Django Application to store and retrieve data from a Online Shopping  Database platform using Object Relational Mapping(ORM).
 
 
 ## DESIGN STEPS
@@ -62,4 +59,4 @@ admin.site.register(Order,OrderAdmin)
 
 
 ## RESULT
-Thus the program for creating Online Food Delivery Database using ORM hass been executed successfully
+Thus the program for creating online Shopping Database using ORM hass been executed successfully
