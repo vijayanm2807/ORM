@@ -1,5 +1,5 @@
 # Ex02 Django ORM Web Application
-## Date: 9.10.2026
+## Date: 09.10.2026
 
 ## AIM
 To develop a Django Application to store and retrieve data from a Online Shopping  Database platform using Object Relational Mapping(ORM).
